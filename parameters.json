@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "Product": "CA",
+        "Quantity": 11,
+        "Time": {
+            "Hour":10,
+            "Minute":11
+        }
+    },
+    {
+        "id": 2,
+        "Product": "KH",
+        "Quantity": 12,
+        "Time": {
+            "Hour":10,
+            "Minute":12
+        }
+    },
+    {
+        "id": 3,
+        "Product": "MG",
+        "Quantity": 13,
+        "Time": {
+            "Hour":10,
+            "Minute":13
+        }
+    }
+]
